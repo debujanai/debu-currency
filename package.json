@@ -1,0 +1,27 @@
+{
+  "name": "debu-currency",
+  "version": "1.0.0",
+  "description": "currency converter",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/debujanai/debu-currency.git"
+  },
+  "author": "debu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/debujanai/debu-currency/issues"
+  },
+  "homepage": "https://github.com/debujanai/debu-currency#readme",
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7",
+    "@types/node": "^20.12.7"
+  },
+  "dependencies": {
+    "inquirer": "^9.2.20"
+  }
+}
